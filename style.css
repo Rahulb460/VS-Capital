@@ -1,0 +1,174 @@
+nav {
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.25);
+    background-color: white;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+.navbar{
+    position: sticky;
+}
+
+.nav-item>a {
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+
+.nav-item>a:hover {
+    color: #f89748
+}
+
+.dropdown-item {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+.btn-primary {
+    background-color: #3F89C8;
+    border: none;
+    padding: 10px 50px 10px 50px;
+    font-weight: 600;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 18px;
+}
+
+.second-body{
+    text-align: center;
+}
+
+h2{
+    font-family: "Montserrat", Sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 45px;
+    text-transform: inherit;
+    color: #1E2A5E;
+}
+h6 {
+    font-family: "Montserrat", Sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: inherit;
+    color: #000000;
+}
+h5 {
+    font-family: "Montserrat", Sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: inherit;
+    color: #000000;
+}
+.small-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    /* font-weight: 50; */
+    line-height: 24px;
+}
+
+#achieve-goal{
+    background: linear-gradient(270deg, #22366B -4.69%, #3C80BF 106.25%);
+}
+#achieve-goal h2 {
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+
+#achieve-goal h6{
+    color: #fff!important;
+    font-weight: 600;
+    text-align: center!important;
+}
+
+#achieve-goal a{
+    /* font-weight: 600;
+    background-color: white;
+    color: #3C80BF; */
+    background: #fff;
+    width: 230px;
+    display: block;
+    margin: 50px auto 0px;
+    color: #3F89C8;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 18px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    padding: 10px;
+}
+#achieve-goal a:hover{
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: "Montserrat", Sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: inherit;
+    color: #000000;
+}
+.btn1{
+    background: #FFFFFF;
+    color: #3F89C8;
+    border: 1px solid #3F89C8;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 45px;
+    padding: 5px;
+}
+.fifth-body{
+    background: #E2E9F1;
+}
+.flex-container {
+    color: white;
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #202D62;
+    padding: 8px;
+    align-items: center;
+}
+.invest-now{
+    background-color: #FFFFFF;
+    font-size: 18px;
+    font-family: "Montserrat";
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    color: #202D62 !important;
+    line-height: 24px;
+    padding: 10px 32px;
+    float: right;
+    border-radius: 4px;
+}
+.invest-now:hover{
+text-decoration: underline0;
+}
+
